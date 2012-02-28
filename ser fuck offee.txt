@@ -19,3 +19,6 @@ http://hu.idealisator.com/blog/ios-app-statisztika
 
 vad elképzelés: sima app (1 euro) és app lite (ingyenes, de vannak benne hirdetés sávok)
 fizetett bannerek a weblapon: talán mégse jó ötlet; ha éneklő koboldos a hirdetés, az elég otrombán nézne ki a professional felületű site-on
+
+Social Taxi
+Megosztjuk a költséget
