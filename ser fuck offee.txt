@@ -16,3 +16,5 @@ http://skyrim.nexusmods.com/downloads/file.php?id=8655
 http://www.youtube.com/user/BethesdaGameStudios#g/u
 
 http://hu.idealisator.com/blog/ios-app-statisztika
+
+vad elképzelés: sima app (1 euro) és app lite (ingyenes, de vannak benne hirdetés sávok)
