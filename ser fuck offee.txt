@@ -23,3 +23,42 @@ fizetett bannerek a weblapon: talán mégse jó ötlet; ha éneklő koboldos a h
 
 Social Taxi
 Megosztjuk a költséget
+
+HTML5 DEV
+=========
+
+GENERAL:
+http://www.slideshare.net/gawd/game-development-with-html5
+http://www.html5gamedevelopment.org/
+http://www.html5gamedevelopment.org/html5-engines/gamemaker-html5
+http://www.html5gamedevelopment.org/html5-game-tutorials/2012-03-opera-softwares-webgl-101
+http://www.appmobi.com/?q=node/158
+
+TUTORIALS:
+http://www.slynksrevenge.com/blog/beginning-html5-game-development/
+http://www.lostdecadegames.com/how-to-make-a-simple-html5-canvas-game/
+http://www.html5gamedevelopment.org/html5-game-tutorials
+http://www.html5gamedevelopment.org/html5-game-tutorials/2012-02-beginning-html5-game-programming-tutorial
+http://www.html5gamedevelopment.org/html5-game-tutorials/2012-02-lets-make-a-3d-game-with-html5
+
+DEMOS:
+http://triggerrally.com/drive?track=preview.json&car=car1.json
+http://www.html5gamedevelopment.org/slides/Canvas/#slide-14
+http://canvasrider.com/draw
+
+IE:
+http://blogs.msdn.com/b/cbowen/archive/2011/12/15/html5-game-development-resources-from-the-game-camps.aspx
+http://ie.microsoft.com/testdrive/Graphics/CanvasPad/Default.html
+
+FLASH:
+http://gamua.com/starling/first-steps/
+
+IMPORTANT LINKS:
+http://msdn.microsoft.com/en-us/scriptjunkie/ff604643
+
+WEBMATRIX:
+http://www.microsoft.com/web/webmatrix/betafeatures.aspx
+BOX2DJS:
+http://box2d-js.sourceforge.net/index2.html
+LIME JS:
+http://www.limejs.com/
