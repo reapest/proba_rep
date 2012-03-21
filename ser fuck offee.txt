@@ -27,6 +27,10 @@ Megosztjuk a költséget
 HTML5 DEV
 =========
 
+IPHONE DEV:
+http://ofps.oreilly.com/titles/9780596805784/
+http://matt.might.net/articles/how-to-native-iphone-ipad-apps-in-javascript/
+
 GENERAL:
 http://www.slideshare.net/gawd/game-development-with-html5
 http://www.html5gamedevelopment.org/
